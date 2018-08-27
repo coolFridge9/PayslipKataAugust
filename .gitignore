@@ -28,6 +28,15 @@
 _UpgradeReport_Files/
 [Pp]ackages/
 
+#idea
+.idea
+
+#sln
+.sln
+
+#csproj
+.csproj
+
 Thumbs.db
 Desktop.ini
 .DS_Store
