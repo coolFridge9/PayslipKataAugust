@@ -32,10 +32,10 @@ _UpgradeReport_Files/
 .idea
 
 #sln
-.sln
+*.sln
 
 #csproj
-.csproj
+*.csproj
 
 Thumbs.db
 Desktop.ini
